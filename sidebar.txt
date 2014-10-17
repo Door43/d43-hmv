@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hmv:home|Door43 (hmv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hmv|d43-hmv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hmv/archive/master.zip|d43-hmv.zip]]
+
+**Recent Changes**
+{{changes>ns = hmv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hmv|Ethnologue data]]
+
